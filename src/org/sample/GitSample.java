@@ -11,8 +11,13 @@ public class GitSample {
 	
 	System.out.println("Employee Details");
 	
-	
+	System.out.println("ys Branch Process start ");
 		
+	int a1 = 5454; 
+	System.out.println(a1);
+	
+	String name = "Java Program";
+	System.out.println(name);
 		
 	}
 }
