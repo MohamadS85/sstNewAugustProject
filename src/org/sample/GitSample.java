@@ -2,6 +2,10 @@ package org.sample;
 
 public class GitSample {
 
+	public static void sst1() {
+		System.out.println("sst --> Smart Skills Technology");
+
+	}
 	
 	
 	public static void main(String[] args) {
@@ -18,6 +22,17 @@ public class GitSample {
 	
 	String name = "Java Program";
 	System.out.println(name);
+	
+	
+	System.out.println("WORK SST");
+	String s1 = "Java ";
+	System.out.println(s1);
+	
+	sst1();
+	
+	
+	
+	
 		
 	}
 }
