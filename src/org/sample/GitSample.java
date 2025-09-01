@@ -11,8 +11,9 @@ public class GitSample {
 	
 	System.out.println("Employee Details");
 	
-	
-		
-		
+	System.out.println("O1/09/25  Yas Start the Work");
+		String sa = " Test Case 1 ";
+		boolean c = sa.contains("te");
+		System.out.println(c);
 	}
 }
